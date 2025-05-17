@@ -1,0 +1,1 @@
+alert ('welcome to SMKN 43 Jakarta');
